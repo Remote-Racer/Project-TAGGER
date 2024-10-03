@@ -4,3 +4,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Remote-Racer/Project-TAGGER-Backend.git
+[submodule "Project-TAGGER-app"]
+	path = Project-TAGGER-app
+	url = https://github.com/Remote-Racer/Project-TAGGER-app.git
+[submodule "Project-TAGGER-RCS"]
+	path = Project-TAGGER-RCS
+	url = https://github.com/Remote-Racer/Project-TAGGER-RCS.git
